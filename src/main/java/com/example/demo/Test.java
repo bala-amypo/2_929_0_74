@@ -5,3 +5,14 @@ public class Test
 		List<String> items = new ArrayList<>(); // ^ You should see red underline and lightbulb icon // Click the lightbulb or press Ctrl+. to add imports 
 		}
 	}
+	khbkb
+	mbmbn
+	ijij
+	wpokefpowe
+
+	ijoiwjef
+	wieoifjwoiejf
+	oifwjeoijfw
+	woiejfoijwfe
+	pokwepofwe
+	owiejoifjw
