@@ -1,12 +1,7 @@
-package com.example.demo;
-
-import org.springframework.boot.SpringApplication;
-import org.springframework.boot.autoconfigure.SpringBootApplication;
-
-@SpringBootApplication
-public class DemoApplication {
-
-	public static void main(String[] args) {
-		SpringApplication.run(DemoApplication.class, args);
+package com.example; 
+public class Test 
+{ 
+	public static void main(String[] args) { 
+		List<String> items = new ArrayList<>(); // ^ You should see red underline and lightbulb icon // Click the lightbulb or press Ctrl+. to add imports 
+		} 
 	}
-}
